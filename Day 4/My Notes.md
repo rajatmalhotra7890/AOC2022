@@ -26,7 +26,7 @@
 
 ### DIY Task - Read about Nmap and Nikto here
 [Blog for Nikto](https://null-byte.wonderhowto.com/how-to/scan-for-vulnerabilities-any-website-using-nikto-0151729/)
-[Nikto Cheatsheet](obsidian://open?vault=AOC22&file=Day%204%2FNIkto-Cheat-Sheet.pdf)
+[Nikto Cheatsheet (Given in Day4/Nikto-Cheat-Sheet.pdf)](obsidian://open?vault=AOC22&file=Day%204%2FNIkto-Cheat-Sheet.pdf)
 
 [Blog for Nmap](https://hackertarget.com/nmap-tutorial/)
 [Nmap Cheatsheet](https://www.stationx.net/nmap-cheat-sheet/)
