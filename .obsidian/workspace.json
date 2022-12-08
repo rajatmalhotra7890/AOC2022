@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "38cf887eb6885d5e",
+        "id": "3875aae67e1ecb51",
         "type": "tabs",
         "children": [
           {
-            "id": "2b1bc11fb2b0aeb9",
+            "id": "bb1e466ef79139b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day 5/My Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 5/My Notes.md",
+                "file": "Day 7/My Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 5/My Notes.md",
+                "file": "Day 7/My Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 5/My Notes.md"
+                "file": "Day 7/My Notes.md"
               }
             }
           }
@@ -136,8 +132,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b1bc11fb2b0aeb9",
+  "active": "f2179b162c3babef",
   "lastOpenFiles": [
+    "Day 6/My Notes.md",
+    "Day 7/My Notes.md",
+    "Day 5/My Notes.md",
     "README.md",
     "Day 4/My Notes.md",
     "Day 4/NIkto-Cheat-Sheet.pdf",
